@@ -32,7 +32,7 @@ Easyetc-News is basically a Python based webscraper which scrapes through the ve
 ### 2. Terminal app
 #### This is the terminal version of Easyetc-News
 * #### Run `$ python web_scraper.py`
-
+#### If everything works fine, you should see a similar result like shown below.
 ![alt text](https://github.com/schikani/Easyetc-News/blob/master/Easyetc_news_screenshot_term.png)
 
 #### Features:
