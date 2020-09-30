@@ -15,7 +15,7 @@ Easyetc-News is basically a Python based webscraper which scrapes through the ve
 ### Currently this project is tested in Ubuntu 20.04 but hopefully it should work in Mac and Windows sytems too.
 
 ### 1. GUI app 
-#### This is the GUI version of Easyetc-news 
+#### This is the GUI version of Easyetc-News 
 **Note:** If you have problems opening this GUI version, try 2. Terminal app shown in the next section
 * #### Run `$ python easyetc_news.py`
 #### If everything works fine, you should see a similar result like shown below.
@@ -30,7 +30,7 @@ Easyetc-News is basically a Python based webscraper which scrapes through the ve
 5. News url will be displayed under the news, left to the Votes. Pressing this link will open the news in browser.
 
 ### 2. Terminal app
-#### This is the terminal version of dog-breed-prediction 
+#### This is the terminal version of Easyetc-News
 * #### Run `$ python web_scraper.py`
 
 ![alt text](https://github.com/schikani/Easyetc-News/blob/master/Easyetc_news_screenshot_term.png)
