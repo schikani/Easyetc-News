@@ -27,6 +27,14 @@ Easyetc-News is basically a Python based webscraper which scrapes through the ve
 2. The votes of the opened news will be displayed in the bottom right corner.
 3. Navigate through 10 news at a time with `1-10`, `11-20`, `21-30` buttons.
 4. Navigate to any random news by pressing `Randomize` button. It will also produce 10 random news from our 30 news.
+5. News url will be displayed under the news, left to the Votes. Pressing this link will open the news in browser.
 
 ### 2. Terminal app
+#### This is the terminal version of dog-breed-prediction 
+* #### Run `$ python web_scraper.py`
+
 ![alt text](https://github.com/schikani/Easyetc-News/blob/master/Easyetc_news_screenshot_term.png)
+
+#### Features:
+1. 30 News will be displayed in a list of dictionaries with `link`, `title` and `votes`.
+2. Press any link to open it in browser.
